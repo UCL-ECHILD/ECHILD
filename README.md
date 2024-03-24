@@ -1,6 +1,6 @@
-# ECHILD
+# ECHILD Research Database
 
-*The ECHILD Research Database - a meta-repo* 🤯
+*A meta-repo* 🤯
 
 **This repo is a public representation of the ECHILD Research Database.**
 
